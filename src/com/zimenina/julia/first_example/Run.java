@@ -18,7 +18,7 @@ public class Run {
 
         Device device = new Device();
         device.setName("Hair dryer");
-        device.setSound("Ууууу");
+        device.setSound("Uuuuuu");
         device.show();
         device.sound();
         System.out.println();
@@ -30,7 +30,7 @@ public class Run {
         kettle.setName("Kettle");
         kettle.setSound("Pssssss");
         kettle.setManufacturer("Polaris");
-        kettle.setMaterial("Пластик");
+        kettle.setMaterial("Plastic");
         kettle.show();
         kettle.sound();
         System.out.println();
@@ -42,7 +42,7 @@ public class Run {
         microwave.setName("Microwave");
         microwave.setSound("Mmmmmmmm");
         microwave.setManufacturer("Bosch");
-        microwave.setMaterial("Металлопластик");
+        microwave.setMaterial("Metal-plastic");
         microwave.show();
         microwave.sound();
         System.out.println();
